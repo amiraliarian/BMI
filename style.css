@@ -4,8 +4,6 @@ body {
 }
 
 h2 {
-    display: flex;
-    justify-content: center;
     margin-top: 20%;
-    border: 1px;
+    border: 1px solid wheat;
 }
