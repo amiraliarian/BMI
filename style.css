@@ -4,6 +4,6 @@ body {
 }
 
 h2 {
-    margin-top: 20%;
+    display: inline;
     border: 1px solid wheat;
 }
